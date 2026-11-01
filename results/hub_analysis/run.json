@@ -1,0 +1,14 @@
+{
+  "version": "projected-weighted-hubs-v1",
+  "trips": 3051915,
+  "pickup_hubs": 10,
+  "dropoff_hubs": 10,
+  "top_route_share": 0.8598312862579724,
+  "seed": 42,
+  "clustering_crs": "EPSG:2263",
+  "source_sha256": "25b65c09d991b8ec35ab24de7a03213d5a4c237a0546691605ec19d023b8b3e8",
+  "inputs": {
+    "yellow_tripdata_2026-03.parquet": "d7af794a7ac06cbbb5afb4d1df9e86d84f2e878584de708ff2ffca4bd7d234d9"
+  },
+  "note": "Zone-centroid demand proxies; projected weighted KMeans. Not a rerun of the archived geographic-coordinate clustering."
+}

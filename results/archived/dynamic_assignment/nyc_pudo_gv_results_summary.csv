@@ -1,0 +1,3 @@
+requests,accepted,rejected,rejection_rate,avg_wait_min,avg_walk_min,avg_delay_min,vht_hours,walk_share,scenario
+98,98,0,0.0,2.208492921728666,0.0,2.208492921728666,10.485329813437142,0.0,door_to_door_gv
+98,98,0,0.0,1.1216404949321228,0.7997320726467774,1.875748788540055,9.941847729496128,0.6326530612244898,pudo_walking_gv

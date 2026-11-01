@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+data/raw/*
+!data/raw/.gitkeep
+cache/
+*.parquet
+*.graphml

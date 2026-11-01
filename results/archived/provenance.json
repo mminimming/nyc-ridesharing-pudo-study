@@ -1,0 +1,34 @@
+{
+  "prepared_date": "2026-11-02",
+  "archived_outputs_recomputed": false,
+  "historical_run_arguments": "Not recorded; do not infer actual parameters from script defaults.",
+  "files": {
+    "archive/Practice1.py": {
+      "sha256": "15d3d0f93da31adcf6d9a68bc60dc46132ef6a5e33e7b069a969fb94f8e32510"
+    },
+    "archive/Practice_2.py": {
+      "sha256": "52379b7e8252e0e62b1604aa837b2c8663a9e0b6817237d00f59be9ca6b2dd6b"
+    },
+    "results/archived/dynamic_assignment/nyc_pudo_gv_results_door.csv": {
+      "sha256": "3ced6fc52d8de35edff69108a162abc9a8423e4ca3b03ea6221f3fdf91ffb72e"
+    },
+    "results/archived/dynamic_assignment/nyc_pudo_gv_results_pudo.csv": {
+      "sha256": "f40127780df298dceff9db5f7449462c08667778e270378de72c8004c81fc837"
+    },
+    "results/archived/dynamic_assignment/nyc_pudo_gv_results_summary.csv": {
+      "sha256": "6f74b160f1c2ede99a9a74df85646e4c33270275df6badcd8b8fd4f67acc2c3a"
+    },
+    "results/archived/hub_analysis/dropoff_hubs.csv": {
+      "sha256": "04191f787b726a9834bec3edff4adb9dd383d2ff72345504b4eb6564b264ba7b"
+    },
+    "results/archived/hub_analysis/hub_od_matrix.csv": {
+      "sha256": "82d0f41fd1d932d298d069303e1620bd2350569d95717e52dbd743afadff30e2"
+    },
+    "results/archived/hub_analysis/pickup_hubs.csv": {
+      "sha256": "1004b774d8123744e5539499b6cc15995759d823da983fee03941d29c1c2fff3"
+    },
+    "results/archived/hub_analysis/route_candidates.csv": {
+      "sha256": "67c8fcbefeb30833470ffa3a2deacd2136c1ffaeb931083849eac3f7252ecf55"
+    }
+  }
+}
